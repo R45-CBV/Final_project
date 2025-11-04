@@ -1,0 +1,926 @@
+[
+  {
+    "prompt": "Hi",
+    "completion": "Hi! How can I assist you today?"
+  },
+  {
+    "prompt": "Hello",
+    "completion": "Hello! What can I help you with?"
+  },
+  {
+    "prompt": "Hey",
+    "completion": "Hello! How can I support you today?"
+  },
+  {
+    "prompt": "Good morning",
+    "completion": "Good morning! Hope you have a productive day. How can I help?"
+  },
+  {
+    "prompt": "Good afternoon",
+    "completion": "Good afternoon! What can I do for you?"
+  },
+  {
+    "prompt": "Good evening",
+    "completion": "Good evening! How may I assist you?"
+  },
+  {
+    "prompt": "How are you?",
+    "completion": "I'm just a chatbot, but I'm here and ready to help you!"
+  },
+  {
+    "prompt": "What's up?",
+    "completion": "All good here! Let me know how I can help you today."
+  },
+  {
+    "prompt": "Greetings",
+    "completion": "Greetings! How can I support you today?"
+  },
+  {
+    "prompt": "Are you there?",
+    "completion": "Yes, I'm here to help. Please let me know your prompt."
+  },
+  {
+    "prompt": "Where is your company located?",
+    "completion": "711, 712, Millennium Business Hub 1 (MBH-1), opposite Sarthana Nature Park, Sarthana Jakat Naka, Nana Varachha, Surat, Gujarat 395006, India."
+  },
+  {
+    "prompt": "What is the contact number for our company?",
+    "completion": "You can reach us at +91 9316707100."
+  },
+  {
+    "prompt": "What is the official website of our company?",
+    "completion": "Our official website is https://www.edeltaes.com/"
+  },
+  {
+    "prompt": "How can I contact the company for general queries?",
+    "completion": "For general queries, please call +91 9316707100 or email hello@edeltaes.com"
+  },
+  {
+    "prompt": "How can I apply for a job at the company?",
+    "completion": "You can apply by visiting the Careers section on our website and submitting your resume at hr@edeltaes.com."
+  },
+  {
+    "prompt": "Where can I see the current job openings?",
+    "completion": "All current openings are listed at https://www.edeltaes.com/career"
+  },
+  {
+    "prompt": "What is the recruitment process at your company?",
+    "completion": "Our recruitment process typically includes an initial screening, a technical round, and an HR interview."
+  },
+  {
+    "prompt": "Can freshers apply for jobs at your company?",
+    "completion": "Yes, we regularly hire freshers through campus placements and direct applications."
+  },
+  {
+    "prompt": "Does the company offer internship opportunities?",
+    "completion": "Yes, we offer internship programs for final-year students and recent graduates."
+  },
+  {
+    "prompt": "How long does the hiring process usually take?",
+    "completion": "The hiring process usually takes 1–2 weeks depending on the role and number of applicants."
+  },
+  {
+    "prompt": "Who can I contact for recruitment-related prompts?",
+    "completion": "You can email our recruitment team at hr@edeltaes.com"
+  },
+  {
+    "prompt": "Is remote work available for new hires?",
+    "completion": "Remote work is available for select roles depending on the project and team requirements."
+  },
+  {
+    "prompt": "What documents are needed during onboarding?",
+    "completion": "New hires are required to provide identity proof, educational certificates, and previous employment documents."
+  },
+  {
+    "prompt": "Will I get a confirmation email after submitting my job application?",
+    "completion": "Yes, you will receive a confirmation email with further instructions after you submit your application."
+  },
+  {
+    "prompt": "What is the name of our company?",
+    "completion": "My company is eDelta Enterprise Solutions Pvt. Ltd."
+  },
+  {
+    "prompt": "Where is the head office of our company located?",
+    "completion": "The head office is located in Ahmedabad, India."
+  },
+  {
+    "prompt": "Who is the CEO of our company?",
+    "completion": "Mr. Sagar Chopada is the current CEO of eDelta Enterprise Solutions Pvt. Ltd."
+  },
+  {
+    "prompt": "How many employees are currently working in our company?",
+    "completion": "As of now, 40+ employees are working in eDelta Enterprise Solutions Pvt. Ltd."
+  },
+  {
+    "prompt": "What are the main services provided by our company?",
+    "completion": "We specialize in IT consulting, cloud solutions, Mobile app development, UI/UX design, and many more."
+  },
+  {
+    "prompt": "What is Fun Friday in our office?",
+    "completion": "Fun Friday is a weekly event where we host games, team-building activities, and celebrations to promote a fun work culture."
+  },
+  {
+    "prompt": "Can anyone participate in Fun Friday events?",
+    "completion": "Yes, all employees are encouraged to participate in Fun Friday activities."
+  },
+  {
+    "prompt": "What kind of activities happen on Fun Fridays?",
+    "completion": "Activities include quizzes, games, talent shows, and sometimes themed dress-up contests."
+  },
+  {
+    "prompt": "Who organizes Fun Friday events?",
+    "completion": "The HR and Employee Engagement teams are responsible for organizing Fun Friday events."
+  },
+  {
+    "prompt": "Is Fun Friday compulsory to attend?",
+    "completion": "Fun Friday is optional but highly encouraged for employee bonding and relaxation."
+  },
+  {
+    "prompt": "How do I reset my password?",
+    "completion": "Go to the login page and click 'Forgot Password'. Follow the instructions."
+  },
+  {
+  "prompt": "What is a daily standup meeting?",
+  "completion": "A daily standup is a short meeting where team members share what they did whole day, what they plan to do next."
+  },
+  {
+  "prompt": "What is the purpose of the daily standup?",
+  "completion": "The purpose is to improve team communication, identify roadblocks early, and ensure alignment on daily tasks and status of ongoing projects."
+  },
+  {
+  "prompt": "How long should a daily standup last?",
+  "completion": "A typical standup lasts between 5 to 10 minutes to keep it focused and efficient."
+  },
+  {
+  "prompt": "When is our daily standup meeting scheduled?",
+  "completion": "Our daily standup is scheduled at 05:00 PM every weekday."
+  },
+  {
+  "prompt": "Is attendance mandatory for daily standups?",
+  "completion": "Yes, all core team members are expected to attend the daily standup meetings."
+  },
+  {
+  "prompt": "What is the time management system used in our company?",
+  "completion": "We use TimelyPro, a cloud-based time tracking and management system."
+  },
+  {
+  "prompt": "How do I log my working hours?",
+  "completion": "You can log your hours through the TimelyPro dashboard or mobile app using your employee credentials."
+  },
+  {
+  "prompt": "Can I update my time entries later?",
+  "completion": "Yes, time entries can be updated manually within 48 hours of the log date."
+  },
+  {
+  "prompt": "Who can see my time logs?",
+  "completion": "Your team lead and HR have access to view your submitted time logs."
+  },
+  {
+  "prompt": "Is it necessary to log break times in the time management system?",
+  "completion": "Yes, break times should be recorded accurately as per company policy."
+  },
+  {
+    "prompt": "Please explain how I can: my account is locked. what should i do",
+    "completion": "Reach out to IT support to unlock your account."
+  },
+  {
+    "prompt": "Kindly guide me how to: my account is locked. what should i do",
+    "completion": "Reach out to IT support to unlock your account."
+  },
+  {
+    "prompt": "How do I request a new user account?",
+    "completion": "Submit a user access request form through the IT portal."
+  },
+  {
+    "prompt": "What should I do to: how often should i change my password",
+    "completion": "We recommend changing your password every 90 days."
+  },
+  {
+    "prompt": "Why can't I connect to the VPN?",
+    "completion": "Ensure your internet is stable and your VPN client is up to date."
+  },
+  {
+    "prompt": "Can I install my own software?",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "How do I configure Outlook for work email?",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "What is 2FA?",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "Kindly guide me how to: why can't i install an application",
+    "completion": "You might not have admin rights. Submit a request to IT."
+  },
+  {
+    "prompt": "Can you help me with this: what is phishing",
+    "completion": "Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i set up the vpn",
+    "completion": "Install the VPN client from our IT portal and follow the setup guide."
+  },
+  {
+    "prompt": "What should I do to: why can't i connect to the vpn",
+    "completion": "Ensure your internet is stable and your VPN client is up to date."
+  },
+  {
+    "prompt": "Please explain how I can: why am i not receiving any emails",
+    "completion": "Check your spam folder and ensure your inbox is not full."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i report a suspicious email",
+    "completion": "Forward it to phishing@company.com."
+  },
+  {
+    "prompt": "What is phishing?",
+    "completion": "Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+  },
+  {
+    "prompt": "Can you help me with this: how do i request a new user account",
+    "completion": "Submit a user access request form through the IT portal."
+  },
+  {
+    "prompt": "Please explain how I can: vpn keeps disconnecting. what can i do",
+    "completion": "Check your internet connection and restart your VPN client."
+  },
+  {
+    "prompt": "How do I unlock my account?",
+    "completion": "Wait 15 minutes or contact IT to manually unlock it."
+  },
+  {
+    "prompt": "What should I do to: how do i configure outlook for work email",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "Could you tell me how to: how often should i change my password",
+    "completion": "We recommend changing your password every 90 days."
+  },
+  {
+    "prompt": "What should I do to: can i access my email from home",
+    "completion": "Yes, use Outlook Web Access via our secure portal."
+  },
+  {
+    "prompt": "Can you help me with this: how do i set up the vpn",
+    "completion": "Install the VPN client from our IT portal and follow the setup guide."
+  },
+  {
+    "prompt": "Can you help me with this: my account is locked. what should i do",
+    "completion": "Reach out to IT support to unlock your account."
+  },
+  {
+    "prompt": "Why am I not receiving any emails?",
+    "completion": "Check your spam folder and ensure your inbox is not full."
+  },
+  {
+    "prompt": "What should I do to: how do i install company-approved software",
+    "completion": "Use the Company Software Center application."
+  },
+  {
+    "prompt": "What should I do to: vpn keeps disconnecting. what can i do",
+    "completion": "Check your internet connection and restart your VPN client."
+  },
+  {
+    "prompt": "Please explain how I can: what is phishing",
+    "completion": "Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+  },
+  {
+    "prompt": "Can you help me with this: how do i unlock my account",
+    "completion": "Wait 15 minutes or contact IT to manually unlock it."
+  },
+  {
+    "prompt": "How do I configure Outlook for work email?",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i install company-approved software",
+    "completion": "Use the Company Software Center application."
+  },
+  {
+    "prompt": "What should I do to: what is 2fa",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "What should I do to: what is phishing",
+    "completion": "Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+  },
+  {
+    "prompt": "Please explain how I can: how do i request a new user account",
+    "completion": "Submit a user access request form through the IT portal."
+  },
+  {
+    "prompt": "Kindly guide me how to: what is phishing",
+    "completion": "Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+  },
+  {
+    "prompt": "Please explain how I can: how do i set up the vpn",
+    "completion": "Install the VPN client from our IT portal and follow the setup guide."
+  },
+  {
+    "prompt": "What should I do to: why can't i install an application",
+    "completion": "You might not have admin rights. Submit a request to IT."
+  },
+  {
+    "prompt": "Can you help me with this: can i access my email from home",
+    "completion": "Yes, use Outlook Web Access via our secure portal."
+  },
+  {
+    "prompt": "What should I do to: how do i request a new user account",
+    "completion": "Submit a user access request form through the IT portal."
+  },
+  {
+    "prompt": "What should I do to: how do i unlock my account",
+    "completion": "Wait 15 minutes or contact IT to manually unlock it."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i configure outlook for work email",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "Could you tell me how to: can i install my own software",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "Please explain how I can: i forgot my password. what should i do",
+    "completion": "Click on 'Forgot Password' at the login screen to reset it."
+  },
+  {
+    "prompt": "What should I do to: why am i not receiving any emails",
+    "completion": "Check your spam folder and ensure your inbox is not full."
+  },
+  {
+    "prompt": "What should I do to: i forgot my password. what should i do",
+    "completion": "Click on 'Forgot Password' at the login screen to reset it."
+  },
+  {
+    "prompt": "Kindly guide me how to: i forgot my password. what should i do",
+    "completion": "Click on 'Forgot Password' at the login screen to reset it."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i reset my password",
+    "completion": "Go to the login page and click 'Forgot Password'. Follow the instructions."
+  },
+  {
+    "prompt": "Please explain how I can: why can't i install an application",
+    "completion": "You might not have admin rights. Submit a request to IT."
+  },
+  {
+    "prompt": "Can you help me with this: why can't i connect to the vpn",
+    "completion": "Ensure your internet is stable and your VPN client is up to date."
+  },
+  {
+    "prompt": "Please explain how I can: how do i unlock my account",
+    "completion": "Wait 15 minutes or contact IT to manually unlock it."
+  },
+  {
+    "prompt": "What should I do to: how do i set up the vpn",
+    "completion": "Install the VPN client from our IT portal and follow the setup guide."
+  },
+  {
+    "prompt": "Can you help me with this: how often should i change my password",
+    "completion": "We recommend changing your password every 90 days."
+  },
+  {
+    "prompt": "Can I install my own software?",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i configure outlook for work email",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "Please explain how I can: why can't i connect to the vpn",
+    "completion": "Ensure your internet is stable and your VPN client is up to date."
+  },
+  {
+    "prompt": "How often should I change my password?",
+    "completion": "We recommend changing your password every 90 days."
+  },
+  {
+    "prompt": "Kindly guide me how to: can i access my email from home",
+    "completion": "Yes, use Outlook Web Access via our secure portal."
+  },
+  {
+    "prompt": "Can you help me with this: why am i not receiving any emails",
+    "completion": "Check your spam folder and ensure your inbox is not full."
+  },
+  {
+    "prompt": "Can I access my email from home?",
+    "completion": "Yes, use Outlook Web Access via our secure portal."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i unlock my account",
+    "completion": "Wait 15 minutes or contact IT to manually unlock it."
+  },
+  {
+    "prompt": "What should I do to: how do i report a suspicious email",
+    "completion": "Forward it to phishing@company.com."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i unlock my account",
+    "completion": "Wait 15 minutes or contact IT to manually unlock it."
+  },
+  {
+    "prompt": "Please explain how I can: how do i report a suspicious email",
+    "completion": "Forward it to phishing@company.com."
+  },
+  {
+    "prompt": "What should I do to: can i install my own software",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "Why can't I install an application?",
+    "completion": "You might not have admin rights. Submit a request to IT."
+  },
+  {
+    "prompt": "Kindly guide me how to: why am i not receiving any emails",
+    "completion": "Check your spam folder and ensure your inbox is not full."
+  },
+  {
+    "prompt": "Please explain how I can: what is 2fa",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i request a new user account",
+    "completion": "Submit a user access request form through the IT portal."
+  },
+  {
+    "prompt": "Kindly guide me how to: can i install my own software",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "Could you tell me how to: my account is locked. what should i do",
+    "completion": "Reach out to IT support to unlock your account."
+  },
+  {
+    "prompt": "Can you help me with this: how do i configure outlook for work email",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "How do I report a suspicious email?",
+    "completion": "Forward it to phishing@company.com."
+  },
+  {
+    "prompt": "Could you tell me how to: why can't i connect to the vpn",
+    "completion": "Ensure your internet is stable and your VPN client is up to date."
+  },
+  {
+    "prompt": "Could you tell me how to: why am i not receiving any emails",
+    "completion": "Check your spam folder and ensure your inbox is not full."
+  },
+  {
+    "prompt": "Kindly guide me how to: what is 2fa",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "What should I do to: my account is locked. what should i do",
+    "completion": "Reach out to IT support to unlock your account."
+  },
+  {
+    "prompt": "Can you help me with this: i forgot my password. what should i do",
+    "completion": "Click on 'Forgot Password' at the login screen to reset it."
+  },
+  {
+    "prompt": "Could you tell me how to: why can't i install an application",
+    "completion": "You might not have admin rights. Submit a request to IT."
+  },
+  {
+    "prompt": "Could you tell me how to: vpn keeps disconnecting. what can i do",
+    "completion": "Check your internet connection and restart your VPN client."
+  },
+  {
+    "prompt": "Can you help me with this: can i install my own software",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i request a new user account",
+    "completion": "Submit a user access request form through the IT portal."
+  },
+  {
+    "prompt": "Can you help me with this: how do i report a suspicious email",
+    "completion": "Forward it to phishing@company.com."
+  },
+  {
+    "prompt": "How do I set up the VPN?",
+    "completion": "Install the VPN client from our IT portal and follow the setup guide."
+  },
+  {
+    "prompt": "Kindly guide me how to: how do i report a suspicious email",
+    "completion": "Forward it to phishing@company.com."
+  },
+  {
+    "prompt": "Could you tell me how to: what is phishing",
+    "completion": "Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+  },
+  {
+    "prompt": "Please explain how I can: can i access my email from home",
+    "completion": "Yes, use Outlook Web Access via our secure portal."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i set up the vpn",
+    "completion": "Install the VPN client from our IT portal and follow the setup guide."
+  },
+  {
+    "prompt": "Kindly guide me how to: why can't i connect to the vpn",
+    "completion": "Ensure your internet is stable and your VPN client is up to date."
+  },
+  {
+    "prompt": "Kindly guide me how to: vpn keeps disconnecting. what can i do",
+    "completion": "Check your internet connection and restart your VPN client."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i install company-approved software",
+    "completion": "Use the Company Software Center application."
+  },
+  {
+    "prompt": "Can you help me with this: why can't i install an application",
+    "completion": "You might not have admin rights. Submit a request to IT."
+  },
+  {
+    "prompt": "Could you tell me how to: i forgot my password. what should i do",
+    "completion": "Click on 'Forgot Password' at the login screen to reset it."
+  },
+  {
+    "prompt": "Could you tell me how to: what is 2fa",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "Could you tell me how to: can i access my email from home",
+    "completion": "Yes, use Outlook Web Access via our secure portal."
+  },
+  {
+    "prompt": "Please explain how I can: how do i install company-approved software",
+    "completion": "Use the Company Software Center application."
+  },
+  {
+    "prompt": "What is 2FA?",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "Can you help me with this: what is 2fa",
+    "completion": "2FA is two-factor authentication. It adds an extra layer of security to your login."
+  },
+  {
+    "prompt": "Please explain how I can: how often should i change my password",
+    "completion": "We recommend changing your password every 90 days."
+  },
+  {
+    "prompt": "My account is locked. What should I do?",
+    "completion": "Reach out to IT support to unlock your account."
+  },
+  {
+    "prompt": "Can you help me with this: how do i install company-approved software",
+    "completion": "Use the Company Software Center application."
+  },
+  {
+    "prompt": "Can you help me with this: vpn keeps disconnecting. what can i do",
+    "completion": "Check your internet connection and restart your VPN client."
+  },
+  {
+    "prompt": "What should I do to: how do i reset my password",
+    "completion": "Go to the login page and click 'Forgot Password'. Follow the instructions."
+  },
+  {
+    "prompt": "Please explain how I can: how do i configure outlook for work email",
+    "completion": "Open Outlook and follow the setup wizard using your work email credentials."
+  },
+  {
+    "prompt": "Please explain how I can: can i install my own software",
+    "completion": "Please contact IT for approval before installing any software."
+  },
+  {
+    "prompt": "VPN keeps disconnecting. What can I do?",
+    "completion": "Check your internet connection and restart your VPN client."
+  },
+  {
+    "prompt": "Can you help me with this: how do i reset my password",
+    "completion": "Go to the login page and click 'Forgot Password'. Follow the instructions."
+  },
+  {
+    "prompt": "How do I install company-approved software?",
+    "completion": "Use the Company Software Center application."
+  },
+  {
+    "prompt": "Please explain how I can: how do i reset my password",
+    "completion": "Go to the login page and click 'Forgot Password'. Follow the instructions."
+  },
+  {
+    "prompt": "Could you tell me how to: how do i reset my password",
+    "completion": "Go to the login page and click 'Forgot Password'. Follow the instructions."
+  },
+  {
+    "prompt": "I forgot my password. What should I do?",
+    "completion": "Click on 'Forgot Password' at the login screen to reset it."
+  },
+  {
+  "prompt": "How can I apply for an internship at the company?",
+  "completion": "You can apply for an internship through our Careers page or by contacting the HR department at hr@edeltaes.com."
+  },
+  {
+  "prompt": "Does the company offer paid internships?",
+  "completion": "No, we do not offer paid internships. Stipend details are mentioned in the offer letter."
+  },
+  {
+  "prompt": "What is the duration of the internship?",
+  "completion": "Internships usually last for 6 months, depending on the project and candidate availability."
+  },
+  {
+  "prompt": "Is there any opportunity to convert an internship into a full-time role?",
+  "completion": "Yes, high-performing interns may receive a full-time offer based on project needs and evaluations."
+  },
+  {
+  "prompt": "What are the eligibility criteria for internships?",
+  "completion": "Interns must be in their final year of study or recent graduates in IT, Computer Science, or related fields."
+  },
+  {
+  "prompt": "Does the company participate in campus placements?",
+  "completion": "Yes, we actively recruit through campus placement drives in selected institutions."
+  },
+  {
+  "prompt": "How can my college invite your company for campus hiring?",
+  "completion": "Colleges can contact our HR team directly via hr@edeltaes.com with campus placement proposals."
+  },
+  {
+  "prompt": "What is Employee of the Month recognition?",
+  "completion": "Employee of the Month is a recognition program that honors outstanding performance, dedication, or innovation each month."
+  },
+  {
+  "prompt": "How are employees selected for rewards and recognition?",
+  "completion": "Employees are nominated by peers and managers based on contribution, collaboration, and results achieved."
+  },
+  {
+  "prompt": "Where are winners of employee awards announced?",
+  "completion": "Winners are announced in our daily stand-up meetings."
+  },
+  {
+  "prompt": "Can I nominate someone for recognition?",
+  "completion": "Yes, employees can nominate their peers by emailing their manager."
+  },
+  {
+  "prompt": "What types of rewards are offered?",
+  "completion": "Rewards include appreciation certificates, gift vouchers, extra leave, or recognition badges."
+  },
+  {
+  "prompt": "Are team awards given?",
+  "completion": "Yes, high-performing teams are recognized with team awards for excellence in project delivery or innovation."
+  },
+  {
+  "prompt": "What are the working hours of the company?",
+  "completion": "Our standard working hours are from 9:30 AM to 7:00 PM, Monday to Friday."
+  },
+  {
+  "prompt": "Is attendance mandatory every day?",
+  "completion": "Yes, regular attendance is mandatory. Absences must be reported in advance through the leave portal."
+  },
+  {
+  "prompt": "What is the company’s leave policy?",
+  "completion": "Employees are entitled to 18 paid leaves annually, along with public holidays and optional festival leave."
+  },
+  {
+  "prompt": "Can I work from home?",
+  "completion": "Remote work is permitted on a case-by-case basis. Please consult your manager for approval."
+  },
+  {
+  "prompt": "Is personal device usage allowed during work hours?",
+  "completion": "No, personal device usage is not allowed during work hours."
+  },
+  {
+  "prompt": "What is the policy on data privacy and confidentiality?",
+  "completion": "All employees must adhere to the company’s Data Protection and Confidentiality Agreement signed during onboarding."
+  },
+  {
+  "prompt": "Am I allowed to share company files externally?",
+  "completion": "No, sharing internal files or information outside the company is strictly prohibited unless authorized."
+  },
+  {
+  "prompt": "What is the code of conduct at the workplace?",
+  "completion": "We expect professionalism, respect for colleagues, adherence to timelines, and zero tolerance for harassment or discrimination."
+  },
+  {
+  "prompt": "How can I report misconduct or policy violations?",
+  "completion": "You can report misconduct confidentially to HR via hr@edeltaes.com or through the anonymous feedback portal."
+  },
+  {
+    "prompt": "What is the working environment like at your company?",
+    "completion": "We promote a collaborative, inclusive, and innovation-driven working environment where every employee is valued."
+  },
+  {
+    "prompt": "Does the company support hybrid or remote work?",
+    "completion": "No, we do not support hybrid or remote work, it depends on the scenario."
+  },
+  {
+    "prompt": "Is there an open-door policy for managers?",
+    "completion": "Absolutely. We follow an open-door policy where employees are encouraged to communicate directly with leadership."
+  },
+  {
+    "prompt": "Are there team-building activities in the company?",
+    "completion": "Yes, we organize regular team-building activities, Fun Fridays, and annual events to foster teamwork and engagement."
+  },
+  {
+    "prompt": "How does the company support work-life balance?",
+    "completion": "We encourage reasonable working hours, offer flexible leave policies, and respect personal time to promote work-life balance."
+  },
+  {
+    "prompt": "Is the company culture supportive for new employees?",
+    "completion": "Yes, new employees receive onboarding support, mentorship, and access to training resources to help them settle in comfortably."
+  },
+  {
+    "prompt": "What tools does the company provide for collaboration?",
+    "completion": "We use tools like Microsoft Teams and Google Workspace to streamline communication and collaboration."
+  },
+  {
+    "prompt": "Are there opportunities for learning and growth?",
+    "completion": "Yes, we offer regular training programs, workshops, and certifications to support employee development and career growth."
+  },
+  {
+    "prompt": "Is diversity and inclusion important at your company?",
+    "completion": "Absolutely. We are committed to maintaining a diverse and inclusive workplace where everyone feels respected and empowered."
+  },
+  {
+    "prompt": "How is employee feedback handled?",
+    "completion": "We conduct regular surveys, 1:1 meetings, and have an anonymous feedback system to continuously improve our work environment."
+  },
+  {
+    "prompt": "Are meals or snacks provided in the office?",
+    "completion": "Yes, we provide complimentary tea and coffee."
+  },
+  {
+    "prompt": "Does the company have a recreational or relaxation area?",
+    "completion": "Yes, we have a recreation zone with indoor games and a relaxation lounge for employees to unwind during breaks."
+  },
+  {
+    "prompt": "What is the policy on overtime work?",
+    "completion": "Overtime is not mandatory and is only expected during project deadlines. Compensatory off may be provided as per HR policy."
+  },
+  {
+    "prompt": "How is the seating or workspace arranged?",
+    "completion": "We offer a mix of open seating, cubicles, and meeting rooms with ergonomic chairs and ample natural lighting."
+  },
+  {
+    "prompt": "Are there health and wellness programs available?",
+    "completion": "Yes, we organize regular health check-ups, wellness webinars, and offer employee assistance programs for mental health."
+  },
+  {
+    "prompt": "How should I schedule a meeting with colleagues from different departments?",
+    "completion": "Please use Google Calendar or Outlook to schedule meetings. Make sure to check the attendees' availability and book a meeting room if required."
+  },
+  {
+    "prompt": "What is our primary tool for daily team chat and collaboration?",
+    "completion": "Our primary tool for real-time communication is Microsoft Teams. For official announcements and formal communication, please refer to your company email."
+  },
+  {
+    "prompt": "When can I expect my salary to be credited each month?",
+    "completion": "Salaries are processed and credited between the first five day of every month."
+  },
+  {
+    "prompt": "Who should I contact if I find a discrepancy in my salary?",
+    "completion": "For any payroll-related queries or issues, please contact to Mr.Chirag Makwana."
+  },
+  {
+    "prompt": "What should I do in case of an unplanned sick leave?",
+    "completion": "You must inform your direct manager as soon as possible via message or call. Subsequently, apply for the leave on the HRMS portal upon your return."
+  },
+  {
+    "prompt": "Who do I report an issue with office equipment, like the AC or my chair?",
+    "completion": "Please contact with any teammates or colleagues for this facility or equipment issues."
+  },
+  {
+    "prompt": "What are the standard office hours?",
+    "completion": "Standard office hours are from 9:30 AM to 6:30 PM, Monday through Friday."
+  },
+  {
+    "prompt": "Is there a designated parking area for employees?",
+    "completion": "Yes, employee parking is available in the basement levels."
+  },
+  {
+    "prompt": "What should I do in case of a medical emergency in the office?",
+    "completion": "Contact the front desk or security immediately at extension 100. They will coordinate with the certified first-aid officers and arrange for medical assistance."
+  },
+  {
+    "prompt": "Where are the fire assembly points located?",
+    "completion": "The emergency exit maps, which include the location of fire extinguishers and designated assembly points, are posted near all staircases and elevators."
+  },
+  {
+    "prompt": "How can I connect to the employee Wi-Fi network?",
+    "completion": "Select the 'eDelta_office_5G' Wi-Fi network. You can get the password and configuration guide from the IT documentation on the intranet."
+  },
+  {
+    "prompt": "My internet is not working. What are the first steps?",
+    "completion": "First, please try restarting your computer and the router if you are working from home. If the issue persists in the office, please raise a high-priority ticket with the IT helpdesk."
+  },
+  {
+    "prompt": "Is using the company VPN mandatory when working from home?",
+    "completion": "Yes, you must connect to the company VPN to access all internal applications, servers, and resources securely from outside the office network."
+  },
+  {
+    "prompt": "Is using the company VPN mandatory when working from home?",
+    "completion": "Yes, you must connect to the company VPN to access all internal applications, servers, and resources securely from outside the office network."
+  },
+  {
+    "prompt": "Where are the key project documents stored?",
+    "completion": "All project-related documents, such as the Statement of Work (SOW) and project plans, are maintained in a dedicated folder on our shared drive (e.g., SharePoint or Google Drive)."
+  },
+  {
+    "prompt": "Who is my primary point of contact for project-related prompts?",
+    "completion": "Your assigned Project Manager (PM) is your primary point of contact for any prompts or clarifications regarding the project tasks and deliverables."
+  },
+  {
+    "prompt": "How do I stay updated with the latest company news?",
+    "completion": "All major company-wide announcements are shared via email from the official HR account and are also posted in the announcements channel on teams."
+  },
+  {
+    "prompt": "Is there a schedule for company holidays and events?",
+    "completion": "Yes, the official holiday list and a calendar of company events are available on the intranet. The events calendar is also shared with your work calendar."
+  },
+  {
+    "prompt": "How can I participate in the upcoming town hall meeting?",
+    "completion": "An invitation with a link to the virtual town hall meeting will be sent to all employees a week in advance. You can submit your prompts beforehand via the link provided in the email."
+  },
+  {
+    "prompt": "How can I find out about job openings in other departments?",
+    "completion": "All internal job postings (IJPs) are listed on the 'Careers' section of the employee portal. You can apply directly from there."
+  },
+  {
+    "prompt": "What is the company's policy on internal transfers?",
+    "completion": "Employees who have completed at least 18 months in their current role are eligible to apply for internal positions. It is recommended to discuss your career aspirations with your manager first."
+  },
+  {
+    "prompt": "Where can I find information about the career ladder for my role?",
+    "completion": "The defined career paths, roles, and required competencies for each department are documented in the 'Career Framework' section on the HR portal."
+  },
+  {
+    "prompt": "What platform should we use for video conferencing with external clients?",
+    "completion": "For external client meetings, please use Google Meet or Microsoft Teams. Ensure you send a calendar invitation with the meeting link well in advance."
+  },
+  {
+    "prompt": "How do I set my status to 'away' or 'in a meeting' on our communication tools?",
+    "completion": "In both microsoft teams and our internal messenger, you can set a custom status by clicking on your profile picture. It's good practice to do this to manage expectations on response times."
+  },
+  {
+    "prompt": "I received a suspicious email. How should I report it?",
+    "completion": "Do not click on any links or download attachments. Please use the 'Report Phishing' button in your email client (Outlook/Gmail) or forward the email as an attachment to the IT security team."
+  },
+  {
+    "prompt": "How should I log my daily work hours for my project?",
+    "completion": "All project hours must be logged daily in the official timesheet management tool. Please ensure you use the correct project and task codes provided by your project manager."
+  },
+  {
+    "prompt": "I need access to a specific software for my new project. Who do I ask?",
+    "completion": "Raise a software request through the IT helpdesk portal. You must include the project name and an approval email from your project manager in the request."
+  },
+  {
+    "prompt": "Can employees suggest ideas for new company events or initiatives?",
+    "completion": "Absolutely! We encourage suggestions. You can submit your ideas to the Employee Engagement Committee or directly to your HR representative."
+  },
+  {
+    "prompt": "Are all company events mandatory to attend?",
+    "completion": "Participation in most social events is optional. However, attendance at all-hands meetings, town halls, and specific training sessions is generally considered mandatory."
+  },
+  {
+      "prompt": "Where can I find photos or recordings of past company events?",
+    "completion": "A gallery of photos from past events is available on the intranet under the 'Life at Company' section. Recordings of town halls and key meetings are stored on our internal video portal."
+  },
+  {
+  "prompt": "Thank you",
+  "completion": "You're welcome! If you need anything else, feel free to ask."
+  },
+  {
+  "prompt": "Thanks",
+  "completion": "Happy to help! Have a great day!"
+  },
+  {
+  "prompt": "Bye",
+  "completion": "Goodbye! Feel free to reach out if you need assistance later."
+  },
+  {
+  "prompt": "Goodbye",
+  "completion": "Goodbye! Take care."
+  },
+  {
+  "prompt": "Talk to you later",
+  "completion": "Sure! I’ll be here whenever you need help."
+  },
+  {
+  "prompt": "That's all for now",
+  "completion": "Got it! Have a great day ahead."
+  },
+  {
+  "prompt": "I’m done",
+  "completion": "Okay! Let me know if you need anything else."
+  },
+  {
+  "prompt": "End chat",
+  "completion": "Chat ended. You can come back anytime if you have more prompts."
+  },
+  {
+  "prompt": "Exit",
+  "completion": "Thank you for visiting. Have a nice day!"
+  },
+  {
+  "prompt": "Quit",
+  "completion": "Session ended. Take care!"
+  }
+]

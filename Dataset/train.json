@@ -1,0 +1,554 @@
+[
+    {
+        "text": "You: Kindly guide me how to: how do i set up the vpn\nBot: Install the VPN client from our IT portal and follow the setup guide."
+    },
+    {
+        "text": "You: Exit\nBot: Thank you for visiting. Have a nice day!"
+    },
+    {
+        "text": "You: What should I do to: how do i install company-approved software\nBot: Use the Company Software Center application."
+    },
+    {
+        "text": "You: Is attendance mandatory every day?\nBot: Yes, regular attendance is mandatory. Absences must be reported in advance through the leave portal."
+    },
+    {
+        "text": "You: Kindly guide me how to: why am i not receiving any emails\nBot: Check your spam folder and ensure your inbox is not full."
+    },
+    {
+        "text": "You: Kindly guide me how to: how do i request a new user account\nBot: Submit a user access request form through the IT portal."
+    },
+    {
+        "text": "You: Please explain how I can: how do i set up the vpn\nBot: Install the VPN client from our IT portal and follow the setup guide."
+    },
+    {
+        "text": "You: Please explain how I can: i forgot my password. what should i do\nBot: Click on 'Forgot Password' at the login screen to reset it."
+    },
+    {
+        "text": "You: Can you help me with this: how often should i change my password\nBot: We recommend changing your password every 90 days."
+    },
+    {
+        "text": "You: Are all company events mandatory to attend?\nBot: Participation in most social events is optional. However, attendance at all-hands meetings, town halls, and specific training sessions is generally considered mandatory."
+    },
+    {
+        "text": "You: Could you tell me how to: why am i not receiving any emails\nBot: Check your spam folder and ensure your inbox is not full."
+    },
+    {
+        "text": "You: When is our daily standup meeting scheduled?\nBot: Our daily standup is scheduled at 05:00 PM every weekday."
+    },
+    {
+        "text": "You: What is the name of our company?\nBot: My company is eDelta Enterprise Solutions Pvt. Ltd."
+    },
+    {
+        "text": "You: Can you help me with this: my account is locked. what should i do\nBot: Reach out to IT support to unlock your account."
+    },
+    {
+        "text": "You: Are meals or snacks provided in the office?\nBot: Yes, we provide complimentary tea and coffee."
+    },
+    {
+        "text": "You: What should I do in case of a medical emergency in the office?\nBot: Contact the front desk or security immediately at extension 100. They will coordinate with the certified first-aid officers and arrange for medical assistance."
+    },
+    {
+        "text": "You: Where is your company located?\nBot: 711, 712, Millennium Business Hub 1 (MBH-1), opposite Sarthana Nature Park, Sarthana Jakat Naka, Nana Varachha, Surat, Gujarat 395006, India."
+    },
+    {
+        "text": "You: Can you help me with this: i forgot my password. what should i do\nBot: Click on 'Forgot Password' at the login screen to reset it."
+    },
+    {
+        "text": "You: What is Fun Friday in our office?\nBot: Fun Friday is a weekly event where we host games, team-building activities, and celebrations to promote a fun work culture."
+    },
+    {
+        "text": "You: I forgot my password. What should I do?\nBot: Click on 'Forgot Password' at the login screen to reset it."
+    },
+    {
+        "text": "You: Why am I not receiving any emails?\nBot: Check your spam folder and ensure your inbox is not full."
+    },
+    {
+        "text": "You: What should I do to: what is 2fa\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: Good evening\nBot: Good evening! How may I assist you?"
+    },
+    {
+        "text": "You: What should I do to: why can't i connect to the vpn\nBot: Ensure your internet is stable and your VPN client is up to date."
+    },
+    {
+        "text": "You: Can you help me with this: how do i configure outlook for work email\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: What is 2FA?\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: When can I expect my salary to be credited each month?\nBot: Salaries are processed and credited between the first five day of every month."
+    },
+    {
+        "text": "You: What should I do to: can i access my email from home\nBot: Yes, use Outlook Web Access via our secure portal."
+    },
+    {
+        "text": "You: My account is locked. What should I do?\nBot: Reach out to IT support to unlock your account."
+    },
+    {
+        "text": "You: What should I do in case of an unplanned sick leave?\nBot: You must inform your direct manager as soon as possible via message or call. Subsequently, apply for the leave on the HRMS portal upon your return."
+    },
+    {
+        "text": "You: Could you tell me how to: what is 2fa\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: What kind of activities happen on Fun Fridays?\nBot: Activities include quizzes, games, talent shows, and sometimes themed dress-up contests."
+    },
+    {
+        "text": "You: What is the official website of our company?\nBot: Our official website is https://www.edeltaes.com/"
+    },
+    {
+        "text": "You: What is a daily standup meeting?\nBot: A daily standup is a short meeting where team members share what they did whole day, what they plan to do next."
+    },
+    {
+        "text": "You: What are the main services provided by our company?\nBot: We specialize in IT consulting, cloud solutions, Mobile app development, UI/UX design, and many more."
+    },
+    {
+        "text": "You: Can I update my time entries later?\nBot: Yes, time entries can be updated manually within 48 hours of the log date."
+    },
+    {
+        "text": "You: End chat\nBot: Chat ended. You can come back anytime if you have more prompts."
+    },
+    {
+        "text": "You: How do I report a suspicious email?\nBot: Forward it to phishing@company.com."
+    },
+    {
+        "text": "You: Does the company offer paid internships?\nBot: No, we do not offer paid internships. Stipend details are mentioned in the offer letter."
+    },
+    {
+        "text": "You: How do I configure Outlook for work email?\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: Kindly guide me how to: vpn keeps disconnecting. what can i do\nBot: Check your internet connection and restart your VPN client."
+    },
+    {
+        "text": "You: Are there opportunities for learning and growth?\nBot: Yes, we offer regular training programs, workshops, and certifications to support employee development and career growth."
+    },
+    {
+        "text": "You: What should I do to: what is phishing\nBot: Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+    },
+    {
+        "text": "You: How do I log my working hours?\nBot: You can log your hours through the TimelyPro dashboard or mobile app using your employee credentials."
+    },
+    {
+        "text": "You: Could you tell me how to: how do i configure outlook for work email\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: Can you help me with this: what is 2fa\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: Kindly guide me how to: what is phishing\nBot: Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+    },
+    {
+        "text": "You: Could you tell me how to: i forgot my password. what should i do\nBot: Click on 'Forgot Password' at the login screen to reset it."
+    },
+    {
+        "text": "You: Who is the CEO of our company?\nBot: Mr. Sagar Chopada is the current CEO of eDelta Enterprise Solutions Pvt. Ltd."
+    },
+    {
+        "text": "You: Where can I find information about the career ladder for my role?\nBot: The defined career paths, roles, and required competencies for each department are documented in the 'Career Framework' section on the HR portal."
+    },
+    {
+        "text": "You: What is the policy on data privacy and confidentiality?\nBot: All employees must adhere to the company’s Data Protection and Confidentiality Agreement signed during onboarding."
+    },
+    {
+        "text": "You: What are the eligibility criteria for internships?\nBot: Interns must be in their final year of study or recent graduates in IT, Computer Science, or related fields."
+    },
+    {
+        "text": "You: Hi\nBot: Hi! How can I assist you today?"
+    },
+    {
+        "text": "You: Hey\nBot: Hello! How can I support you today?"
+    },
+    {
+        "text": "You: Please explain how I can: how do i request a new user account\nBot: Submit a user access request form through the IT portal."
+    },
+    {
+        "text": "You: Kindly guide me how to: my account is locked. what should i do\nBot: Reach out to IT support to unlock your account."
+    },
+    {
+        "text": "You: Kindly guide me how to: can i access my email from home\nBot: Yes, use Outlook Web Access via our secure portal."
+    },
+    {
+        "text": "You: Could you tell me how to: how do i request a new user account\nBot: Submit a user access request form through the IT portal."
+    },
+    {
+        "text": "You: Please explain how I can: how do i install company-approved software\nBot: Use the Company Software Center application."
+    },
+    {
+        "text": "You: What types of rewards are offered?\nBot: Rewards include appreciation certificates, gift vouchers, extra leave, or recognition badges."
+    },
+    {
+        "text": "You: Kindly guide me how to: how do i reset my password\nBot: Go to the login page and click 'Forgot Password'. Follow the instructions."
+    },
+    {
+        "text": "You: Could you tell me how to: can i install my own software\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: What is Employee of the Month recognition?\nBot: Employee of the Month is a recognition program that honors outstanding performance, dedication, or innovation each month."
+    },
+    {
+        "text": "You: Could you tell me how to: how do i reset my password\nBot: Go to the login page and click 'Forgot Password'. Follow the instructions."
+    },
+    {
+        "text": "You: Please explain how I can: why can't i connect to the vpn\nBot: Ensure your internet is stable and your VPN client is up to date."
+    },
+    {
+        "text": "You: What is the purpose of the daily standup?\nBot: The purpose is to improve team communication, identify roadblocks early, and ensure alignment on daily tasks and status of ongoing projects."
+    },
+    {
+        "text": "You: What tools does the company provide for collaboration?\nBot: We use tools like Microsoft Teams and Google Workspace to streamline communication and collaboration."
+    },
+    {
+        "text": "You: Please explain how I can: vpn keeps disconnecting. what can i do\nBot: Check your internet connection and restart your VPN client."
+    },
+    {
+        "text": "You: What documents are needed during onboarding?\nBot: New hires are required to provide identity proof, educational certificates, and previous employment documents."
+    },
+    {
+        "text": "You: Where can I find photos or recordings of past company events?\nBot: A gallery of photos from past events is available on the intranet under the 'Life at Company' section. Recordings of town halls and key meetings are stored on our internal video portal."
+    },
+    {
+        "text": "You: Is diversity and inclusion important at your company?\nBot: Absolutely. We are committed to maintaining a diverse and inclusive workplace where everyone feels respected and empowered."
+    },
+    {
+        "text": "You: Is Fun Friday compulsory to attend?\nBot: Fun Friday is optional but highly encouraged for employee bonding and relaxation."
+    },
+    {
+        "text": "You: What is the contact number for our company?\nBot: You can reach us at +91 9316707100."
+    },
+    {
+        "text": "You: Talk to you later\nBot: Sure! I’ll be here whenever you need help."
+    },
+    {
+        "text": "You: How does the company support work-life balance?\nBot: We encourage reasonable working hours, offer flexible leave policies, and respect personal time to promote work-life balance."
+    },
+    {
+        "text": "You: How are you?\nBot: I'm just a chatbot, but I'm here and ready to help you!"
+    },
+    {
+        "text": "You: How many employees are currently working in our company?\nBot: As of now, 40+ employees are working in eDelta Enterprise Solutions Pvt. Ltd."
+    },
+    {
+        "text": "You: Please explain how I can: how often should i change my password\nBot: We recommend changing your password every 90 days."
+    },
+    {
+        "text": "You: Thank you\nBot: You're welcome! If you need anything else, feel free to ask."
+    },
+    {
+        "text": "You: Thanks\nBot: Happy to help! Have a great day!"
+    },
+    {
+        "text": "You: What is the duration of the internship?\nBot: Internships usually last for 6 months, depending on the project and candidate availability."
+    },
+    {
+        "text": "You: Good afternoon\nBot: Good afternoon! What can I do for you?"
+    },
+    {
+        "text": "You: Could you tell me how to: vpn keeps disconnecting. what can i do\nBot: Check your internet connection and restart your VPN client."
+    },
+    {
+        "text": "You: Who organizes Fun Friday events?\nBot: The HR and Employee Engagement teams are responsible for organizing Fun Friday events."
+    },
+    {
+        "text": "You: Can I nominate someone for recognition?\nBot: Yes, employees can nominate their peers by emailing their manager."
+    },
+    {
+        "text": "You: How do I unlock my account?\nBot: Wait 15 minutes or contact IT to manually unlock it."
+    },
+    {
+        "text": "You: Could you tell me how to: what is phishing\nBot: Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+    },
+    {
+        "text": "You: How do I stay updated with the latest company news?\nBot: All major company-wide announcements are shared via email from the official HR account and are also posted in the announcements channel on teams."
+    },
+    {
+        "text": "You: Am I allowed to share company files externally?\nBot: No, sharing internal files or information outside the company is strictly prohibited unless authorized."
+    },
+    {
+        "text": "You: What should I do to: vpn keeps disconnecting. what can i do\nBot: Check your internet connection and restart your VPN client."
+    },
+    {
+        "text": "You: What is the working environment like at your company?\nBot: We promote a collaborative, inclusive, and innovation-driven working environment where every employee is valued."
+    },
+    {
+        "text": "You: Could you tell me how to: how often should i change my password\nBot: We recommend changing your password every 90 days."
+    },
+    {
+        "text": "You: Is it necessary to log break times in the time management system?\nBot: Yes, break times should be recorded accurately as per company policy."
+    },
+    {
+        "text": "You: VPN keeps disconnecting. What can I do?\nBot: Check your internet connection and restart your VPN client."
+    },
+    {
+        "text": "You: What is the time management system used in our company?\nBot: We use TimelyPro, a cloud-based time tracking and management system."
+    },
+    {
+        "text": "You: Can you help me with this: can i install my own software\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: Will I get a confirmation email after submitting my job application?\nBot: Yes, you will receive a confirmation email with further instructions after you submit your application."
+    },
+    {
+        "text": "You: Is personal device usage allowed during work hours?\nBot: No, personal device usage is not allowed during work hours."
+    },
+    {
+        "text": "You: What are the working hours of the company?\nBot: Our standard working hours are from 9:30 AM to 7:00 PM, Monday to Friday."
+    },
+    {
+        "text": "You: Can you help me with this: can i access my email from home\nBot: Yes, use Outlook Web Access via our secure portal."
+    },
+    {
+        "text": "You: Is attendance mandatory for daily standups?\nBot: Yes, all core team members are expected to attend the daily standup meetings."
+    },
+    {
+        "text": "You: What is our primary tool for daily team chat and collaboration?\nBot: Our primary tool for real-time communication is Microsoft Teams. For official announcements and formal communication, please refer to your company email."
+    },
+    {
+        "text": "You: How do I request a new user account?\nBot: Submit a user access request form through the IT portal."
+    },
+    {
+        "text": "You: What should I do to: how do i set up the vpn\nBot: Install the VPN client from our IT portal and follow the setup guide."
+    },
+    {
+        "text": "You: Are there health and wellness programs available?\nBot: Yes, we organize regular health check-ups, wellness webinars, and offer employee assistance programs for mental health."
+    },
+    {
+        "text": "You: Who can see my time logs?\nBot: Your team lead and HR have access to view your submitted time logs."
+    },
+    {
+        "text": "You: What should I do to: how do i reset my password\nBot: Go to the login page and click 'Forgot Password'. Follow the instructions."
+    },
+    {
+        "text": "You: Who is my primary point of contact for project-related prompts?\nBot: Your assigned Project Manager (PM) is your primary point of contact for any prompts or clarifications regarding the project tasks and deliverables."
+    },
+    {
+        "text": "You: Good morning\nBot: Good morning! Hope you have a productive day. How can I help?"
+    },
+    {
+        "text": "You: Could you tell me how to: how do i unlock my account\nBot: Wait 15 minutes or contact IT to manually unlock it."
+    },
+    {
+        "text": "You: Kindly guide me how to: why can't i install an application\nBot: You might not have admin rights. Submit a request to IT."
+    },
+    {
+        "text": "You: Could you tell me how to: how do i install company-approved software\nBot: Use the Company Software Center application."
+    },
+    {
+        "text": "You: Is there a schedule for company holidays and events?\nBot: Yes, the official holiday list and a calendar of company events are available on the intranet. The events calendar is also shared with your work calendar."
+    },
+    {
+        "text": "You: Does the company support hybrid or remote work?\nBot: No, we do not support hybrid or remote work, it depends on the scenario."
+    },
+    {
+        "text": "You: What platform should we use for video conferencing with external clients?\nBot: For external client meetings, please use Google Meet or Microsoft Teams. Ensure you send a calendar invitation with the meeting link well in advance."
+    },
+    {
+        "text": "You: Why can't I connect to the VPN?\nBot: Ensure your internet is stable and your VPN client is up to date."
+    },
+    {
+        "text": "You: Where are winners of employee awards announced?\nBot: Winners are announced in our daily stand-up meetings."
+    },
+    {
+        "text": "You: What should I do to: why can't i install an application\nBot: You might not have admin rights. Submit a request to IT."
+    },
+    {
+        "text": "You: How do I reset my password?\nBot: Go to the login page and click 'Forgot Password'. Follow the instructions."
+    },
+    {
+        "text": "You: What's up?\nBot: All good here! Let me know how I can help you today."
+    },
+    {
+        "text": "You: Please explain how I can: what is 2fa\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: Please explain how I can: why can't i install an application\nBot: You might not have admin rights. Submit a request to IT."
+    },
+    {
+        "text": "You: What should I do to: how do i unlock my account\nBot: Wait 15 minutes or contact IT to manually unlock it."
+    },
+    {
+        "text": "You: Is using the company VPN mandatory when working from home?\nBot: Yes, you must connect to the company VPN to access all internal applications, servers, and resources securely from outside the office network."
+    },
+    {
+        "text": "You: How can I participate in the upcoming town hall meeting?\nBot: An invitation with a link to the virtual town hall meeting will be sent to all employees a week in advance. You can submit your prompts beforehand via the link provided in the email."
+    },
+    {
+        "text": "You: Kindly guide me how to: i forgot my password. what should i do\nBot: Click on 'Forgot Password' at the login screen to reset it."
+    },
+    {
+        "text": "You: Greetings\nBot: Greetings! How can I support you today?"
+    },
+    {
+        "text": "You: How can I contact the company for general queries?\nBot: For general queries, please call +91 9316707100 or email hello@edeltaes.com"
+    },
+    {
+        "text": "You: What is phishing?\nBot: Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+    },
+    {
+        "text": "You: What are the standard office hours?\nBot: Standard office hours are from 9:30 AM to 6:30 PM, Monday through Friday."
+    },
+    {
+        "text": "You: Kindly guide me how to: why can't i connect to the vpn\nBot: Ensure your internet is stable and your VPN client is up to date."
+    },
+    {
+        "text": "You: Can freshers apply for jobs at your company?\nBot: Yes, we regularly hire freshers through campus placements and direct applications."
+    },
+    {
+        "text": "You: Are team awards given?\nBot: Yes, high-performing teams are recognized with team awards for excellence in project delivery or innovation."
+    },
+    {
+        "text": "You: Can you help me with this: how do i unlock my account\nBot: Wait 15 minutes or contact IT to manually unlock it."
+    },
+    {
+        "text": "You: How can I connect to the employee Wi-Fi network?\nBot: Select the 'eDelta_office_5G' Wi-Fi network. You can get the password and configuration guide from the IT documentation on the intranet."
+    },
+    {
+        "text": "You: Can you help me with this: why can't i install an application\nBot: You might not have admin rights. Submit a request to IT."
+    },
+    {
+        "text": "You: Goodbye\nBot: Goodbye! Take care."
+    },
+    {
+        "text": "You: What is the company's policy on internal transfers?\nBot: Employees who have completed at least 18 months in their current role are eligible to apply for internal positions. It is recommended to discuss your career aspirations with your manager first."
+    },
+    {
+        "text": "You: What should I do to: how do i configure outlook for work email\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: Can you help me with this: what is phishing\nBot: Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+    },
+    {
+        "text": "You: What should I do to: can i install my own software\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: Can I install my own software?\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: What is the code of conduct at the workplace?\nBot: We expect professionalism, respect for colleagues, adherence to timelines, and zero tolerance for harassment or discrimination."
+    },
+    {
+        "text": "You: Is using the company VPN mandatory when working from home?\nBot: Yes, you must connect to the company VPN to access all internal applications, servers, and resources securely from outside the office network."
+    },
+    {
+        "text": "You: How is the seating or workspace arranged?\nBot: We offer a mix of open seating, cubicles, and meeting rooms with ergonomic chairs and ample natural lighting."
+    },
+    {
+        "text": "You: I’m done\nBot: Okay! Let me know if you need anything else."
+    },
+    {
+        "text": "You: I need access to a specific software for my new project. Who do I ask?\nBot: Raise a software request through the IT helpdesk portal. You must include the project name and an approval email from your project manager in the request."
+    },
+    {
+        "text": "You: What is the company’s leave policy?\nBot: Employees are entitled to 18 paid leaves annually, along with public holidays and optional festival leave."
+    },
+    {
+        "text": "You: Could you tell me how to: how do i report a suspicious email\nBot: Forward it to phishing@company.com."
+    },
+    {
+        "text": "You: What should I do to: how often should i change my password\nBot: We recommend changing your password every 90 days."
+    },
+    {
+        "text": "You: What should I do to: i forgot my password. what should i do\nBot: Click on 'Forgot Password' at the login screen to reset it."
+    },
+    {
+        "text": "You: Is remote work available for new hires?\nBot: Remote work is available for select roles depending on the project and team requirements."
+    },
+    {
+        "text": "You: Please explain how I can: why am i not receiving any emails\nBot: Check your spam folder and ensure your inbox is not full."
+    },
+    {
+        "text": "You: How can my college invite your company for campus hiring?\nBot: Colleges can contact our HR team directly via hr@edeltaes.com with campus placement proposals."
+    },
+    {
+        "text": "You: Bye\nBot: Goodbye! Feel free to reach out if you need assistance later."
+    },
+    {
+        "text": "You: Does the company have a recreational or relaxation area?\nBot: Yes, we have a recreation zone with indoor games and a relaxation lounge for employees to unwind during breaks."
+    },
+    {
+        "text": "You: How should I schedule a meeting with colleagues from different departments?\nBot: Please use Google Calendar or Outlook to schedule meetings. Make sure to check the attendees' availability and book a meeting room if required."
+    },
+    {
+        "text": "You: Please explain how I can: can i access my email from home\nBot: Yes, use Outlook Web Access via our secure portal."
+    },
+    {
+        "text": "You: How long should a daily standup last?\nBot: A typical standup lasts between 5 to 10 minutes to keep it focused and efficient."
+    },
+    {
+        "text": "You: Is there any opportunity to convert an internship into a full-time role?\nBot: Yes, high-performing interns may receive a full-time offer based on project needs and evaluations."
+    },
+    {
+        "text": "You: How should I log my daily work hours for my project?\nBot: All project hours must be logged daily in the official timesheet management tool. Please ensure you use the correct project and task codes provided by your project manager."
+    },
+    {
+        "text": "You: Hello\nBot: Hello! What can I help you with?"
+    },
+    {
+        "text": "You: What is 2FA?\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: Can you help me with this: how do i reset my password\nBot: Go to the login page and click 'Forgot Password'. Follow the instructions."
+    },
+    {
+        "text": "You: Could you tell me how to: how do i set up the vpn\nBot: Install the VPN client from our IT portal and follow the setup guide."
+    },
+    {
+        "text": "You: Please explain how I can: how do i reset my password\nBot: Go to the login page and click 'Forgot Password'. Follow the instructions."
+    },
+    {
+        "text": "You: Kindly guide me how to: how do i unlock my account\nBot: Wait 15 minutes or contact IT to manually unlock it."
+    },
+    {
+        "text": "You: How often should I change my password?\nBot: We recommend changing your password every 90 days."
+    },
+    {
+        "text": "You: Could you tell me how to: why can't i connect to the vpn\nBot: Ensure your internet is stable and your VPN client is up to date."
+    },
+    {
+        "text": "You: What should I do to: why am i not receiving any emails\nBot: Check your spam folder and ensure your inbox is not full."
+    },
+    {
+        "text": "You: My internet is not working. What are the first steps?\nBot: First, please try restarting your computer and the router if you are working from home. If the issue persists in the office, please raise a high-priority ticket with the IT helpdesk."
+    },
+    {
+        "text": "You: Kindly guide me how to: how do i install company-approved software\nBot: Use the Company Software Center application."
+    },
+    {
+        "text": "You: How do I set my status to 'away' or 'in a meeting' on our communication tools?\nBot: In both microsoft teams and our internal messenger, you can set a custom status by clicking on your profile picture. It's good practice to do this to manage expectations on response times."
+    },
+    {
+        "text": "You: How can I find out about job openings in other departments?\nBot: All internal job postings (IJPs) are listed on the 'Careers' section of the employee portal. You can apply directly from there."
+    },
+    {
+        "text": "You: Could you tell me how to: why can't i install an application\nBot: You might not have admin rights. Submit a request to IT."
+    },
+    {
+        "text": "You: Quit\nBot: Session ended. Take care!"
+    },
+    {
+        "text": "You: Who can I contact for recruitment-related prompts?\nBot: You can email our recruitment team at hr@edeltaes.com"
+    },
+    {
+        "text": "You: What is the policy on overtime work?\nBot: Overtime is not mandatory and is only expected during project deadlines. Compensatory off may be provided as per HR policy."
+    },
+    {
+        "text": "You: Please explain how I can: what is phishing\nBot: Phishing is a type of cyberattack where attackers trick you into revealing personal information."
+    },
+    {
+        "text": "You: Please explain how I can: how do i report a suspicious email\nBot: Forward it to phishing@company.com."
+    },
+    {
+        "text": "You: How can I apply for a job at the company?\nBot: You can apply by visiting the Careers section on our website and submitting your resume at hr@edeltaes.com."
+    },
+    {
+        "text": "You: Can you help me with this: why can't i connect to the vpn\nBot: Ensure your internet is stable and your VPN client is up to date."
+    },
+    {
+        "text": "You: Are there team-building activities in the company?\nBot: Yes, we organize regular team-building activities, Fun Fridays, and annual events to foster teamwork and engagement."
+    },
+    {
+        "text": "You: Can I access my email from home?\nBot: Yes, use Outlook Web Access via our secure portal."
+    }
+]

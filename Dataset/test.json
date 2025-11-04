@@ -1,0 +1,143 @@
+[
+    {
+        "text": "You: Can employees suggest ideas for new company events or initiatives?\nBot: Absolutely! We encourage suggestions. You can submit your ideas to the Employee Engagement Committee or directly to your HR representative."
+    },
+    {
+        "text": "You: Can you help me with this: how do i set up the vpn\nBot: Install the VPN client from our IT portal and follow the setup guide."
+    },
+    {
+        "text": "You: Are you there?\nBot: Yes, I'm here to help. Please let me know your prompt."
+    },
+    {
+        "text": "You: Can I work from home?\nBot: Remote work is permitted on a case-by-case basis. Please consult your manager for approval."
+    },
+    {
+        "text": "You: Where can I see the current job openings?\nBot: All current openings are listed at https://www.edeltaes.com/career"
+    },
+    {
+        "text": "You: Where are the fire assembly points located?\nBot: The emergency exit maps, which include the location of fire extinguishers and designated assembly points, are posted near all staircases and elevators."
+    },
+    {
+        "text": "You: Where is the head office of our company located?\nBot: The head office is located in Ahmedabad, India."
+    },
+    {
+        "text": "You: Who do I report an issue with office equipment, like the AC or my chair?\nBot: Please contact with any teammates or colleagues for this facility or equipment issues."
+    },
+    {
+        "text": "You: How can I apply for an internship at the company?\nBot: You can apply for an internship through our Careers page or by contacting the HR department at hr@edeltaes.com."
+    },
+    {
+        "text": "You: How do I set up the VPN?\nBot: Install the VPN client from our IT portal and follow the setup guide."
+    },
+    {
+        "text": "You: I received a suspicious email. How should I report it?\nBot: Do not click on any links or download attachments. Please use the 'Report Phishing' button in your email client (Outlook/Gmail) or forward the email as an attachment to the IT security team."
+    },
+    {
+        "text": "You: How long does the hiring process usually take?\nBot: The hiring process usually takes 1–2 weeks depending on the role and number of applicants."
+    },
+    {
+        "text": "You: Can I install my own software?\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: Is there an open-door policy for managers?\nBot: Absolutely. We follow an open-door policy where employees are encouraged to communicate directly with leadership."
+    },
+    {
+        "text": "You: How can I report misconduct or policy violations?\nBot: You can report misconduct confidentially to HR via hr@edeltaes.com or through the anonymous feedback portal."
+    },
+    {
+        "text": "You: Could you tell me how to: can i access my email from home\nBot: Yes, use Outlook Web Access via our secure portal."
+    },
+    {
+        "text": "You: Please explain how I can: how do i configure outlook for work email\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: Can anyone participate in Fun Friday events?\nBot: Yes, all employees are encouraged to participate in Fun Friday activities."
+    },
+    {
+        "text": "You: That's all for now\nBot: Got it! Have a great day ahead."
+    },
+    {
+        "text": "You: How is employee feedback handled?\nBot: We conduct regular surveys, 1:1 meetings, and have an anonymous feedback system to continuously improve our work environment."
+    },
+    {
+        "text": "You: Why can't I install an application?\nBot: You might not have admin rights. Submit a request to IT."
+    },
+    {
+        "text": "You: How are employees selected for rewards and recognition?\nBot: Employees are nominated by peers and managers based on contribution, collaboration, and results achieved."
+    },
+    {
+        "text": "You: Where are the key project documents stored?\nBot: All project-related documents, such as the Statement of Work (SOW) and project plans, are maintained in a dedicated folder on our shared drive (e.g., SharePoint or Google Drive)."
+    },
+    {
+        "text": "You: Is the company culture supportive for new employees?\nBot: Yes, new employees receive onboarding support, mentorship, and access to training resources to help them settle in comfortably."
+    },
+    {
+        "text": "You: Can you help me with this: how do i report a suspicious email\nBot: Forward it to phishing@company.com."
+    },
+    {
+        "text": "You: Does the company offer internship opportunities?\nBot: Yes, we offer internship programs for final-year students and recent graduates."
+    },
+    {
+        "text": "You: Please explain how I can: can i install my own software\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: Can you help me with this: why am i not receiving any emails\nBot: Check your spam folder and ensure your inbox is not full."
+    },
+    {
+        "text": "You: What should I do to: how do i report a suspicious email\nBot: Forward it to phishing@company.com."
+    },
+    {
+        "text": "You: Kindly guide me how to: how do i configure outlook for work email\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: Is there a designated parking area for employees?\nBot: Yes, employee parking is available in the basement levels."
+    },
+    {
+        "text": "You: Can you help me with this: how do i request a new user account\nBot: Submit a user access request form through the IT portal."
+    },
+    {
+        "text": "You: Kindly guide me how to: what is 2fa\nBot: 2FA is two-factor authentication. It adds an extra layer of security to your login."
+    },
+    {
+        "text": "You: Please explain how I can: my account is locked. what should i do\nBot: Reach out to IT support to unlock your account."
+    },
+    {
+        "text": "You: What is the recruitment process at your company?\nBot: Our recruitment process typically includes an initial screening, a technical round, and an HR interview."
+    },
+    {
+        "text": "You: Kindly guide me how to: how do i report a suspicious email\nBot: Forward it to phishing@company.com."
+    },
+    {
+        "text": "You: Does the company participate in campus placements?\nBot: Yes, we actively recruit through campus placement drives in selected institutions."
+    },
+    {
+        "text": "You: What should I do to: my account is locked. what should i do\nBot: Reach out to IT support to unlock your account."
+    },
+    {
+        "text": "You: What should I do to: how do i request a new user account\nBot: Submit a user access request form through the IT portal."
+    },
+    {
+        "text": "You: Can you help me with this: vpn keeps disconnecting. what can i do\nBot: Check your internet connection and restart your VPN client."
+    },
+    {
+        "text": "You: Please explain how I can: how do i unlock my account\nBot: Wait 15 minutes or contact IT to manually unlock it."
+    },
+    {
+        "text": "You: Who should I contact if I find a discrepancy in my salary?\nBot: For any payroll-related queries or issues, please contact to Mr.Chirag Makwana."
+    },
+    {
+        "text": "You: Can you help me with this: how do i install company-approved software\nBot: Use the Company Software Center application."
+    },
+    {
+        "text": "You: How do I configure Outlook for work email?\nBot: Open Outlook and follow the setup wizard using your work email credentials."
+    },
+    {
+        "text": "You: Could you tell me how to: my account is locked. what should i do\nBot: Reach out to IT support to unlock your account."
+    },
+    {
+        "text": "You: Kindly guide me how to: can i install my own software\nBot: Please contact IT for approval before installing any software."
+    },
+    {
+        "text": "You: How do I install company-approved software?\nBot: Use the Company Software Center application."
+    }
+]

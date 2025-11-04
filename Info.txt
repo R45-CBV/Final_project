@@ -1,0 +1,5 @@
+AddPC - Addition of Prompt and Completion.py
+SplitTT - Splitting of Training and Testing Data.py
+TokenizeTT - Tokenization of Training and Testing Data.py
+Finetuned - Training distilgpt2 model 
+test_finetuned - Testing code 

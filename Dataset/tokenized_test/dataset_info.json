@@ -1,0 +1,58 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 32616,
+  "description": "",
+  "download_checksums": {
+    "/Users/edelta077/Desktop/Edelta/Prop_CB/Dataset/train.json": {
+      "num_bytes": 31283,
+      "checksum": null
+    },
+    "/Users/edelta077/Desktop/Edelta/Prop_CB/Dataset/test.json": {
+      "num_bytes": 8036,
+      "checksum": null
+    }
+  },
+  "download_size": 39319,
+  "features": {
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 71935,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 25945,
+      "num_examples": 184,
+      "dataset_name": "json"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 6671,
+      "num_examples": 47,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
