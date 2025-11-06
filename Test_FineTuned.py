@@ -20,17 +20,15 @@ while True:
     prompt = f"You: {user_input}\nBot:"
     inputs = tokenizer(prompt, return_tensors="pt")
 
-    # Generate with tuned parameters
     outputs = model.generate(
-        **inputs,
-        max_length=120,
-        pad_token_id=tokenizer.eos_token_id,
-        temperature=1.0,        # Adds creativity
-        top_p=0.9,              # Nucleus sampling
-        repetition_penalty=1.3, # Reduces repetition
-        do_sample=True
-    )
-
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    **inputs,
+    max_length=150,
+    pad_token_id=tokenizer.eos_token_id,
+    temperature=1.6,        # 🧨 Encourages hallucinations
+    top_p=0.98,             # 🧨 Allows very wide possible token choices
+    repetition_penalty=1.0, # ❌ No protection against looping/wrong info
+    do_sample=True
+)
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True)       
     bot_reply = response.split("Bot:")[-1].strip()
     print(f"Bot: {bot_reply}\n")
